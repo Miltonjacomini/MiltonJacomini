@@ -1,4 +1,4 @@
-# [![Tino Github header](https://raw.githubusercontent.com/MiltonJacomini/MiltonJacomini/main/imagens/banner.png)](https://tino.dev.br)
+# [![Tino Github header](https://raw.githubusercontent.com/MiltonJacomini/MiltonJacomini/main/imagens/banner_top.png)](https://tino.dev.br)
 
 <h3 align="center">A Brazilian software engineer interested in communities, sharing knowledge and learning about cloud solutions, java systems
 and how make tech community on Brasil more attractive for everyone.</h3>
