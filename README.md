@@ -1,6 +1,5 @@
 # [![Tino Github header](https://raw.githubusercontent.com/MiltonJacomini/MiltonJacomini/main/imagens/banner.png)](https://tino.dev.br)
 
-<h1 align="center">Hi 👋, I'm Tino / Ola eu sou o Tino</h1>
 <h3 align="center">A Brazilian software engineer interested in communities, sharing knowledge and learning about cloud solutions, java systems
 and how make tech community on Brasil more attractive for everyone.</h3>
 <h3 align="center">Um engenheiro de software brasileiro interessado em comunidades, compartilhando conhecimento e aprendendo sobre soluções em nuvem, sistemas java
