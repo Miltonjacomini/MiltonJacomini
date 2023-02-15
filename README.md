@@ -1,5 +1,3 @@
-# [![Tino Github header](https://raw.githubusercontent.com/MiltonJacomini/MiltonJacomini/main/imagens/banner_top.png)](https://tino.dev.br)
-
 <h3 align="center">A Brazilian software engineer interested in communities, sharing knowledge and learning about cloud solutions, java systems
 and how make tech community on Brasil more attractive for everyone.</h3>
 <h3 align="center">Um engenheiro de software brasileiro interessado em comunidades, compartilhamento de conhecimento e aprendendo sobre soluções em nuvem, sistemas java
