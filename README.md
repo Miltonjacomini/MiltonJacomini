@@ -1,11 +1,10 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=miltonjacomini&label=Profile%20views&color=0e75b6&style=flat-square" alt="miltonjacomini profile view count" /></p>
+
+
 <h3>A Brazilian software engineer interested in communities, sharing knowledge and learning about cloud solutions, java systems
 and how make tech community on Brasil more attractive for everyone. Um engenheiro de software brasileiro interessado em comunidades, compartilhamento de conhecimento e aprendendo sobre soluções em nuvem, sistemas java
 e como tornar a comunidade de tecnologia no Brasil mais atraente para todos.</h3>
 
-
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=miltonjacomini&label=Profile%20views&color=0e75b6&style=flat-square" alt="miltonjacomini profile view count" /> 
-</p>
 
 - 💬 Ask me about **Java, Spring, Python, Golang, Javascript, React, AWS, Docker**
 
