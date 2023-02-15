@@ -10,19 +10,6 @@ e como tornar a comunidade de tecnologia no Brasil mais atraente para todos.</h3
     <img src="https://komarev.com/ghpvc/?username=miltonjacomini&label=Profile%20views&color=0e75b6&style=flat-square" alt="miltonjacomini profile view count" /> 
 </p>
 
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=miltonjacomini" alt="miltonjacomini githubprofile trophy" />
-    </a> 
-</p>
-
-<p align="left">
-    <a href="https://twitter.com/miltonjacomini" target="blank">
-        <img src="https://img.shields.io/twitter/follow/miltonjacomini?logo=twitter&style=for-the-badge" alt="miltonjacomini" />
-    </a> 
-</p>
-
-
 - 💬 Ask me about **Java, Spring, Python, Golang, Javascript, React, AWS, Docker**
 
 - 📄 Know about my experiences [https://br.linkedin.com/in/miltonjacomini](https://br.linkedin.com/in/miltonjacomini/)
@@ -46,13 +33,7 @@ e como tornar a comunidade de tecnologia no Brasil mais atraente para todos.</h3
 
 <h3 align="left">
     <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miltonjacomini&show_icons=true&locale=en&layout=compact" alt="miltonjacomini" />
-    </p>
-    <p>
         <img src="https://github-readme-stats.vercel.app/api?username=miltonjacomini&show_icons=true&locale=en" alt="miltonjacomini" />
-    </p>
-    <p>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=miltonjacomini" alt="miltonjacomini" />
     </p>
 </h3>
 
