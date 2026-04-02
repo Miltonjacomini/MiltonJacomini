@@ -48,15 +48,6 @@ I've led teams through complex technical decisions and witnessed firsthand how t
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiltonJacomini&show_icons=true&locale=en&theme=radical" alt="miltonjacomini stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonJacomini&layout=compact&theme=radical" alt="Top Langs" width="48%" />
-</div>
-
----
-
 ### 🤝 Let's Connect!
 
 <p align="left">
@@ -66,7 +57,7 @@ I've led teams through complex technical decisions and witnessed firsthand how t
     <a href="https://www.linkedin.com/in/miltongiacomini/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miltongiacomini linkedin" height="40" width="50"/>
     </a>
-    <a href="https://www.instagram.com/techpararh" target="blank">
+    <a href="https://www.instagram.com/techptodos" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miltonjacomini instagram" height="40" width="50"/>
     </a>
     <a href="https://www.youtube.com/c/TechparaRH" target="blank">
